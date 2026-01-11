@@ -1,27 +1,84 @@
-<h1 align="center">Hi 👋, I'm Meghana Yagannagari</h1>
-<h3 align="center">AI & Backend Enthusiast | Cybersecurity & Full-Stack Developer | Cloud & ML Explorer</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **Advanced AI/ML techniques, Cybersecurity automation, Cloud-native architectures, and LLM integration**
+# 『 MEGHANA 』
 
-- 👨‍💻 All of my projects are available at [https://portfolio-xi-orcin-43.vercel.app/](https://portfolio-xi-orcin-43.vercel.app/)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=%E2%9A%A1+CS+STUDENT+%7C+CLOUD+%26+AI+ENTHUSIAST+%E2%9A%A1;%F0%9F%94%A5+LEARNING+BY+BUILDING+%7C+PROBLEM+SOLVER+%F0%9F%94%A5" alt="Typing SVG" />
 
-- 💬 Ask me about **AI/ML projects, backend development, cybersecurity practices, full-stack development, cloud computing, and building scalable systems.**
+<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="100%" height="180">
 
-- 📫 How to reach me **yagannagarimeghana@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/CONNECT-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/meghana-yagannagari-465b352b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/meghana-yagannagari-465b352b5/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/meghanayagannagari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/meghanayagannagari" height="30" width="40" /></a>
-<a href="https://medium.com/@yagannagarimeghana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yagannagarimeghana" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/meghana_yag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/meghana_yag" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/yagannagarimegh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/yagannagarimegh1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/meghana_yag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/meghana_yag" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/meghanayagannagari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/meghanayagannagari/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/yagannagarp1ok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/yagannagarp1ok" height="30" width="40" /></a>
-</p>
+```yaml
+🎓 Computer Science Engineering Student
+💻 Interested in Cloud Computing, AI/ML & Cybersecurity
+🚀 Passionate about building real-world projects and learning by doing
+</div>
+👩‍💻 ABOUT ME
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+I am a Computer Science Engineering student with a strong interest in cloud technologies, artificial intelligence, and secure systems. I enjoy exploring how modern software architectures and intelligent systems can solve real-world problems. I believe in learning by building, experimenting with new tools, and continuously improving my technical and problem-solving skills through hands-on projects and collaboration.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meghana-06&show_icons=true&locale=en&layout=compact" alt="meghana-06" /></p>
+🛠️ TECH ARSENAL
+<div align="center">
+⚡ LANGUAGES
+<table> <tr> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python</td> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=c" width="48"/><br>C</td> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48"/><br>Java</td> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48"/><br>JavaScript</td> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash" width="48"/><br>Bash</td> </tr> </table>
+🚀 BACKEND & FRAMEWORKS
+<table> <tr> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>Node.js</td> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="48"/><br>Express</td> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" width="48"/><br>FastAPI</td> </tr> </table>
+💾 DATABASES
+<table> <tr> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>MySQL</td> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sqlite" width="48"/><br>SQLite</td> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br>MongoDB</td> </tr> </table>
+☁️ CLOUD & DEVOPS
+<table> <tr> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="48"/><br>AWS</td> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=gcp" width="48"/><br>GCP</td> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br>Docker</td> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git</td> </tr> </table>
+🤖 AI / ML & DATA
+<table> <tr> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tensorflow" width="48"/><br>TensorFlow</td> <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pytorch" width="48"/><br>PyTorch</td> <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/><br>Pandas</td> <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/><br>NumPy</td> </tr> </table> </div>
+🔭 I’M CURRENTLY WORKING ON
+
+Cloud & AI based academic projects
+
+Improving backend and system design skills
+
+👯 I’M LOOKING TO COLLABORATE ON
+
+Open-source projects
+
+Cloud, AI/ML, or cybersecurity related applications
+
+🤝 I’M LOOKING FOR HELP WITH
+
+Advanced machine learning concepts
+
+Cloud deployment & architecture best practices
+
+🌱 I’M CURRENTLY LEARNING
+
+Cloud platforms (AWS / GCP)
+
+Machine Learning fundamentals
+
+Backend APIs & secure systems
+
+💬 ASK ME ABOUT
+
+Python programming
+
+Cloud fundamentals
+
+Student projects & learning paths
+
+⚡ FUN FACT
+
+I enjoy turning small ideas into working projects and improving them step by step 🚀
+
+<div align="center">
+🌟 LET’S CONNECT 🌟
+
+
+
+
+
+
+<img src="https://komarev.com/ghpvc/?username=yourusername&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge" />
+
+“Learning never exhausts the mind.” — Leonardo da Vinci
+
+</div> ```
